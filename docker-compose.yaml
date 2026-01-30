@@ -67,7 +67,7 @@ services:
             type: gemini
             gemini:
               model-name: gemini-2.5-flash
-              api-key: AIzaSyCaYBnEQfrV7kLNK6t9_axs62tJmLcTf_o
+              api-key: 
           server:
             basicAuth:
               username: "admin@kestra.io" # it must be a valid email address
